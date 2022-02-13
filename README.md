@@ -12,7 +12,8 @@
     </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=jfdoradotr&style=flat-square&color=blue" alt=""/>
+  <!-- Profile views -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=jfdoradotr&style=flat-square&color=blue" alt=""/> -->
 
   <h1>
   Hey there
@@ -41,3 +42,14 @@
 - ⚡️ In my free time, I like to read technical books/articles/blogs as well creating my own articles for [SwiftyJourney](https://swiftyjourney.com) and re-learn 🎸 again.
 
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jfdoradotr-blue?logo=Twitter&logoColor=white)](https://twitter.com/jfdoradotr)
+
+---
+
+<!-- Languages and tools section -->
+
+### 🛠 Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+</div>
