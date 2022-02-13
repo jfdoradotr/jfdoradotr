@@ -76,7 +76,17 @@
 
 ---
 
+<!-- Latest articles section -->
+
 ### ✍️ Latest Articles
 
 - [Strings](https://www.swiftyjourney.com/strings)
 - [ScrollViews using Interface Builder](https://www.swiftyjourney.com/scrollviews-using-interface-builder)
+
+---
+
+<!-- Joke of the day section -->
+
+### 🤪 Joke of the day
+
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
