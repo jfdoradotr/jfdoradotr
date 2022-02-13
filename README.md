@@ -27,9 +27,9 @@
   <img src="assets/_desk.gif" width="600" height="300"/>
 </div>
 
-<!-- About me section -->
-
 ---
+
+<!-- About me section -->
 
 ### 👨‍💻 About Me
 
@@ -73,3 +73,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jfdoradotr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdoradotr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### ✍️ Latest Articles
+
+- [Strings](https://www.swiftyjourney.com/strings)
+- [ScrollViews using Interface Builder](https://www.swiftyjourney.com/scrollviews-using-interface-builder)
