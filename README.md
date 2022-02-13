@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="assets/Desk.gif" width="600"/>
+  <img src="assets/swift-ui-icon.png" width="200"/>
 </div>
