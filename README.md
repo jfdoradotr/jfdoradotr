@@ -63,3 +63,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
+
+---
+
+<!-- My Stats -->
+
+### 🔥 My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jfdoradotr&theme=dark&background=000000)](https://git.io/streak-stats)
