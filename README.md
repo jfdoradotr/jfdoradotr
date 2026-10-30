@@ -3,9 +3,11 @@
 
   <p><b>Senior iOS Engineer from Mexico 🇲🇽</b> · 11+ years shipping iOS apps, from UIKit to SwiftUI.</p>
 
-  <a href="https://swiftyjourney.com"><img src="https://img.shields.io/badge/-swiftyjourney.com-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftyJourney"/></a>
-  <a href="https://www.linkedin.com/in/juanfranciscodoradotorres"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/SwiftyJourney"><img src="https://img.shields.io/badge/-SwiftyJourney_org-181717?style=for-the-badge&logo=github&logoColor=white" alt="SwiftyJourney on GitHub"/></a>
+  <p>
+    🌐 <a href="https://swiftyjourney.com">swiftyjourney.com</a> ·
+    💼 <a href="https://www.linkedin.com/in/juanfranciscodoradotorres">LinkedIn</a> ·
+    🐙 <a href="https://github.com/SwiftyJourney">SwiftyJourney on GitHub</a>
+  </p>
 </div>
 
 ---
