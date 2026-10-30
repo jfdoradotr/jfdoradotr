@@ -41,11 +41,13 @@ let tools    = ["GitHub Actions", "Xcode Cloud", "Datadog", "Claude Code", "MCP"
 
 ### ✍️ Latest articles
 
+<!-- ARTICLES:START -->
 - [Approachable Concurrency, nonisolated by default: the setup I use and why](https://swiftyjourney.com/writing/swift6-approachable-concurrency-guide/)
 - [My Journey with Apple Coding Academy: From Self-Doubt to Growth](https://swiftyjourney.com/writing/my-journey-apple-coding-academy/)
 - [Swift Refresh 2025 – Day 5: Modern AI, Foundation Models, and AI-powered development](https://swiftyjourney.com/writing/swift-refresh-2025-day-5-modern-ai-foundation-models-ai-powered-development/)
 - [Swift Refresh 2025 – Day 4 (Part 2): Modern Observation and Reactive UIKit](https://swiftyjourney.com/writing/swift-refresh-2025-day-4-part-2-observation-uikit-reactive/)
-- [Persistence Decisions: UserDefaults vs FileManager vs SwiftData](https://swiftyjourney.com/writing/persistence-decisions-userdefaults-filemanager-swiftdata/)
+- [Swift Refresh 2025 – Day 4 (Part 1): Memory, Real Concurrency, and Synchronization](https://swiftyjourney.com/writing/swift-refresh-2025-day-4-part-1-memory-concurrency-synchronization/)
+<!-- ARTICLES:END -->
 
 ➡️ [All posts](https://swiftyjourney.com/writing/) · [RSS](https://swiftyjourney.com/rss.xml)
 
