@@ -1,92 +1,54 @@
-<!-- Header section -->
+<div align="center">
+  <h1>Hey, I'm Juan 👋</h1>
 
-<div id="header" align="center">
-  <img src="assets/swift-ui-icon.png" width="200"/>
+  <p><b>Senior iOS Engineer from Mexico 🇲🇽</b> · 11+ years shipping iOS apps, from UIKit to SwiftUI.</p>
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/juanfranciscodoradotorres">
-      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/jfdoradotr">
-      <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter" alt="Twitter Badge"/>
-    </a>
-  </div>
-
-  <!-- Profile views -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=jfdoradotr&style=flat-square&color=blue" alt=""/> -->
-
-  <h1>
-  Hey there
-  <img src="https://tenor.com/view/dm4uz3-foekoe-foekoe-gaming-the-greenscreen-room-emoji-gif-21042583.gif" alt="wave" width="30px">
-  </h1>
+  <a href="https://swiftyjourney.com"><img src="https://img.shields.io/badge/-swiftyjourney.com-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftyJourney"/></a>
+  <a href="https://www.linkedin.com/in/juanfranciscodoradotorres"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/SwiftyJourney"><img src="https://img.shields.io/badge/-SwiftyJourney_org-181717?style=for-the-badge&logo=github&logoColor=white" alt="SwiftyJourney on GitHub"/></a>
 </div>
 
-<!-- Banner section -->
+---
+
+### 👨‍💻 About me
+
+- 🛒 Today I build ads and promoted products for a Fortune 500 retailer's iOS app.
+- 🧱 I care about code a team can still change years later: clear boundaries, real tests, and reviews that follow the team's own decisions.
+- 🧪 Clean Architecture, TDD, and modularization are my default; Swift Testing over XCTest.
+- 🤖 Learning how AI agents fit into real Swift codebases, and Swift Concurrency in depth.
+- 🎓 Moderator at Essential Developer since 2022.
+- ✍️ I write about the parts of iOS that don't fit in a tutorial at **[swiftyjourney.com](https://swiftyjourney.com)**.
+
+### 🛠 Stack
+
+```swift
+let practice = ["Clean Architecture", "MVVM", "TDD", "Modularization", "ADRs"]
+let apple    = ["Swift", "SwiftUI", "UIKit", "Swift Concurrency", "Swift Testing", "Instruments"]
+let tools    = ["GitHub Actions", "Xcode Cloud", "Datadog", "Claude Code", "MCP"]
+```
+
+### 🚧 Projects
+
+| Project | What it is |
+| --- | --- |
+| [iOS agent skills](https://github.com/SwiftyJourney/ios-architecture-expert-skill) | Claude Code skills for [architecture](https://github.com/SwiftyJourney/ios-architecture-expert-skill), [requirements](https://github.com/SwiftyJourney/requirements-engineering-skill), [Swift](https://github.com/SwiftyJourney/swift-language-expert-skill), [Swift Testing](https://github.com/SwiftyJourney/swift-testing-expert-skill), [SwiftUI](https://github.com/SwiftyJourney/swiftui-expert-skill), and [UIKit interop](https://github.com/SwiftyJourney/swiftui-uikit-interop-skill) |
+| [Country Quiz](https://github.com/SwiftyJourney/country-quiz-case-study) | CLI and iOS app built with TDD, clean architecture, and on-device FoundationModels |
+| [BTC Price Study Case](https://github.com/SwiftyJourney/btc-price-study-case) | Clean Architecture and TDD from user stories to business logic |
+| [MyMangas](https://github.com/jfdoradotr/my-mangas-app-study-case) | Modular SwiftUI app, final project of the Swift Developer Program 2025 |
+| [TAXI](https://github.com/SwiftyJourney/TAXI) | Xcode themes installer: 6 color schemes × 6 fonts |
+
+### ✍️ Latest articles
+
+- [Approachable Concurrency, nonisolated by default: the setup I use and why](https://swiftyjourney.com/writing/swift6-approachable-concurrency-guide/)
+- [My Journey with Apple Coding Academy: From Self-Doubt to Growth](https://swiftyjourney.com/writing/my-journey-apple-coding-academy/)
+- [Swift Refresh 2025 – Day 5: Modern AI, Foundation Models, and AI-powered development](https://swiftyjourney.com/writing/swift-refresh-2025-day-5-modern-ai-foundation-models-ai-powered-development/)
+- [Swift Refresh 2025 – Day 4 (Part 2): Modern Observation and Reactive UIKit](https://swiftyjourney.com/writing/swift-refresh-2025-day-4-part-2-observation-uikit-reactive/)
+- [Persistence Decisions: UserDefaults vs FileManager vs SwiftData](https://swiftyjourney.com/writing/persistence-decisions-userdefaults-filemanager-swiftdata/)
+
+➡️ [All posts](https://swiftyjourney.com/writing/) · [RSS](https://swiftyjourney.com/rss.xml)
+
+---
 
 <div align="center">
-  <img src="assets/_desk.gif" width="600" height="300"/>
+  <sub>Let's talk iOS: architecture, agentic workflows, or just a good Swift conversation. <a href="https://www.linkedin.com/in/juanfranciscodoradotorres">Message me on LinkedIn →</a></sub>
 </div>
-
----
-
-<!-- About me section -->
-
-### 👨‍💻 About Me
-
-- 🔭 I'm working as a mobile engineer contributing on fully native Swift and cross-platform Flutter projects.
-
-- 🌱 Improving architectural skills so what/where/how are these related to SOLID principles.
-
-- 🧪 Applying TDD methodology as much as I can on every project.
-
-- ⚡️ In my free time, I like to read technical books/articles/blogs as well creating my own articles for [SwiftyJourney](https://swiftyjourney.com) and re-learn 🎸 again.
-
-- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jfdoradotr-blue?logo=Twitter&logoColor=white)](https://twitter.com/jfdoradotr)
-
----
-
-<!-- Languages and tools section -->
-
-### 🛠 Languages and Tools
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
-</div>
-
----
-
-<!-- My Stats -->
-
-### 🔥 My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jfdoradotr&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfdoradotr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<!-- Latest articles section -->
-
-### ✍️ Latest Articles
-
-- [Strings](https://www.swiftyjourney.com/strings)
-- [ScrollViews using Interface Builder](https://www.swiftyjourney.com/scrollviews-using-interface-builder)
-
----
-
-<!-- Joke of the day section -->
-
-### 🤪 Joke of the day
-
-<img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" />
